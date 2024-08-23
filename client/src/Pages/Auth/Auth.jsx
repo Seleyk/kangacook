@@ -15,7 +15,7 @@ const Auth = () => {
   return (
     <div className="w-full h-[100dvh] relative">
       <div className="w-full h-full flex items-center justify-center absolute -z-20">
-        <img src="/assets/nklogo.png" alt="Loading..." className="h-80 w-80" />
+        <img src="/assets/kangacook_logo.svg" alt="Loading..." className="h-80 w-80" />
       </div>
       <video
         className="w-full h-full object-cover absolute -z-10"
