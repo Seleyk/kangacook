@@ -6,7 +6,7 @@ import Auth from "./Pages/Auth/Auth";
 
 const App = () => {
   const location = useLocation();
-  const userInfo = true;
+  const userInfo = false;
   //   useSelector((state) => state.auth);
 
   return (
