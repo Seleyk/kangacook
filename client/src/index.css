@@ -10,3 +10,12 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+/* Button */
+.cta-txt {
+  @apply text-[#f8f7f4] text-sm font-semibold cursor-pointer;
+}
+
+.cta {
+  @apply w-full bg-[#a1a4b0] hover:bg-[#5b6175] h-9 px-[17px] py-0.5 rounded border border-[#0c0c0c] justify-center items-center gap-2.5 inline-flex cursor-pointer ease-in;
+}
